@@ -1,0 +1,3 @@
+docker run --rm -it -v /var/run/docker.sock:/var/run/docker.sock wagoodman/dive:latest dreamhackofficial/blue-whale:1
+
+위 명령어 잘 써먹으면 됨...
